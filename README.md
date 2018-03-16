@@ -18,7 +18,7 @@ Lucas Rappette
 	- __sumrunner__ provides the running total of summing over a list of numbers
 	- __edge(X, Y, C)__ describes an edge from X to Y with cost C in a directed graph
 	- __path(FROM, TO, COST)__ finds all paths from a starting node to a goal node
-- __There is an additional readme for this project, which is the original assignment description. This file is called *Graphing in Haskell and Prolog.pdf*.__
+- __There is an additional readme for this project, which is the original assignment description.__ This file is called *Graphing in Haskell and Prolog.pdf*.
 
 
 ## How to build the software
